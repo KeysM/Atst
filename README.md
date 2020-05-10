@@ -1,2 +1,0 @@
-# Atst
-IoT testing
